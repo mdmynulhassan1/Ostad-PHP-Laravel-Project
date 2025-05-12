@@ -1,4 +1,6 @@
 <?php
+
+echo "--------------- Welcome To Contact Manager APP------------------------\n\n\n";
 //contact 1
 
 $name1 ="";
